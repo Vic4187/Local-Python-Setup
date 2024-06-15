@@ -1,0 +1,1 @@
+print("Hello fron inside a file!")
